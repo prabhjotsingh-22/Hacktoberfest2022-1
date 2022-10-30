@@ -2047,4 +2047,9 @@ contributors = [
     username:"https://github.com/amnotcreative",
   }
 
+  {
+    id:422,
+    fullname:"Prabhjot Singh Walia",
+    username:"https://github.com/prabhjotsingh-22",
+  }
 ];
